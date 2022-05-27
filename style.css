@@ -1,0 +1,38 @@
+#logo{
+    color: aliceblue;
+    font-size: 30px;
+}
+.footer{
+    text-align: center;
+}
+/* .contener{
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.contener{
+    margin-left: 13px;
+    padding-left: 10px;
+} */
+.contener{
+    margin: 10px;
+    padding: 14px;
+}
+.register{
+    padding-right: 60px;
+    margin-right: 60px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.form{
+    background-color: aquamarine;
+    text-align: center;
+}
+.form h2{
+    font-size: 35px;
+}.input{
+    font-size: 30px;
+}.btn{
+    background-color: rgb(142, 142, 248);
+    font-size: 20px;
+    text-decoration: none;
+}
